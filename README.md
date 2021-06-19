@@ -1,2 +1,5 @@
 # hello-world
-Just another repository. 
+
+Hello all!
+
+My name is Mackenzie Eng and I am a student at Hunter College!
