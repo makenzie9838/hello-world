@@ -62,7 +62,7 @@ To-do list for today:
 
 I am tiring out 😫
 
-==I CAN== do this! I tried to highlight I can...
+==I CAN== do this! I tried to highlight "I CAN"...
 
 I need some H~2~O.
 
